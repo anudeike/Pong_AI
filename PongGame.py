@@ -182,7 +182,9 @@ def nonlinear(x, deriv=False):
 np.random.seed(1)
 
 #Input Array
-
+"""
+The point of this section of the file is to get the information about the position of the  
+"""
 
 X = []
 Y = []
